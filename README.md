@@ -1,8 +1,7 @@
 # awesome-numa
-A community driven list of useful NUMA-related libraries and resources
+A community driven list of useful NUMA-related libraries, tools, and resources.
 
-## Configuration checking tools
-- https://github.com/mJace/numacc
+Non-Uniform Memory Access (NUMA) refers to multiprocessor systems whose memory is divided into multiple memory nodes.
 
 ## Benchmarking tools
 - https://github.com/c3sr/comm_scope
@@ -12,6 +11,8 @@ A community driven list of useful NUMA-related libraries and resources
 - https://github.com/stephentu/numa-bench
 
 ## Observation and profiling tools
+- https://github.com/numactl/numactl
+- https://github.com/mJace/numacc
 - https://github.com/intel/numatop
 - https://github.com/SnuMAP/SnuMAP
 - https://github.com/lanceshelton/irqstat
@@ -20,8 +21,9 @@ A community driven list of useful NUMA-related libraries and resources
 - https://github.com/matthiasdiener/numalize
 - https://github.com/numamma/numamma
 - https://github.com/numap-library/numap
+- https://github.com/opcm/pcm
 
-## Libraries for numa-aware development
+## NUMA-aware memory placement and scheduling
 - https://github.com/numactl/numactl
 - https://github.com/go2starr/numatool
 - https://github.com/drepper/libNUMA
@@ -44,3 +46,4 @@ A community driven list of useful NUMA-related libraries and resources
 ## NUMA-aware data structures
 - https://github.com/ShisoftResearch/Skyhooks
 - https://github.com/azu-labs/rw-numa-locks
+
