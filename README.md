@@ -39,9 +39,11 @@ Non-Uniform Memory Access (NUMA) refers to multiprocessor systems whose memory i
 ## Bindings and interfaces for NUMA Linux library (libnuma)
 - https://github.com/numactl/numactl
 - https://github.com/sergeyvfx/libNumaAPI
+- https://github.com/cwpearson/numa-rs
 - https://github.com/rakyll/go-numa
 - https://github.com/xerial/jnuma
 - https://github.com/smira/py-numa
+- https://github.com/stevebleazard/ocaml-numa
 
 ## NUMA-aware data structures
 - https://github.com/ShisoftResearch/Skyhooks
