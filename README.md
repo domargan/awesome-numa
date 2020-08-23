@@ -9,11 +9,11 @@ To add, remove or change things on the list:
 
 ## NUMA Linux library bindings and interfaces
 - [libnuma](https://github.com/numactl/numactl) - The libnuma shared library to control NUMA policy for processes or shared memory on Linux
-- [numa-rs](https://github.com/cwpearson/numa-rs) - Rust bindings for libnuma
-- [go-numa](https://github.com/rakyll/go-numa) - Go bindings for libnuma
-- [jnuma](https://github.com/xerial/jnuma) - Java bindings for libnuma
-- [py-numa](https://github.com/smira/py-numa) - Python bindings for libnuma
-- [ocaml-numa](https://github.com/stevebleazard/ocaml-numa) - OCAML bindings for libnuma
+  - [numa-rs](https://github.com/cwpearson/numa-rs) - Rust bindings for libnuma
+  - [go-numa](https://github.com/rakyll/go-numa) - Go bindings for libnuma
+  - [jnuma](https://github.com/xerial/jnuma) - Java bindings for libnuma
+  - [py-numa](https://github.com/smira/py-numa) - Python bindings for libnuma
+  - [ocaml-numa](https://github.com/stevebleazard/ocaml-numa) - OCAML bindings for libnuma
 - [libNumaAPI](https://github.com/sergeyvfx/libNumaAPI) - A cross-platform API wrapper for NUMA architecture
 
 ## NUMA-aware memory placement and scheduling
