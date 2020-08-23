@@ -14,7 +14,7 @@ To add, remove or change things on the list:
 - [jnuma - Java bindings for libnuma](https://github.com/xerial/jnuma)
 - [py-numa - Python bindings for libnuma](https://github.com/smira/py-numa)
 - [ocaml-numa - OCAML bindings for libnuma](https://github.com/stevebleazard/ocaml-numa)
-- [libNumaAPI - A cross-platform API wrapper for NUMA technology](https://github.com/sergeyvfx/libNumaAPI)
+- [libNumaAPI - A cross-platform API wrapper for NUMA architecture](https://github.com/sergeyvfx/libNumaAPI)
 
 ## NUMA-aware memory placement and scheduling
 - [numactl - A program to run other programs with a specific NUMA policy](https://github.com/numactl/numactl)
@@ -43,8 +43,8 @@ To add, remove or change things on the list:
 
 ## Benchmarking
 - [Comm|Scope - A NUMA-aware multi-CPU multi-GPU CUDA data transfer benchmarks](https://github.com/c3sr/comm_scope)
-- [Numafac - Scripts to calculate the NUMA factor of NUMA machines, based on the stream and lmbench3 benchmarks.](https://github.com/matthiasdiener/numafac)
-- [nurdma - Understanding RDMA Behavior in NUMA Systems](https://github.com/sss-lehigh/nurdma)
+- [Numafac - Scripts to calculate the NUMA factor of NUMA machines, based on the stream and lmbench3 benchmarks](https://github.com/matthiasdiener/numafac)
+- [nurdma - Understanding RDMA behavior in NUMA systems](https://github.com/sss-lehigh/nurdma)
 - [numabench - A NUMA benchmarking tool](https://github.com/BrownBigData/numabench)
 - [numa-bench - A NUMA-aware memory allocation benchmark](https://github.com/stephentu/numa-bench)
 
