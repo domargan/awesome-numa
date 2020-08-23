@@ -7,7 +7,7 @@ A community-oriented list of libraries, tools, and resources aimed to assist wit
 To add, remove or change things on the list:
 [please submit a pull request to the GitHub repository](https://github.com/domargan/awesome-numa).
 
-## NUMA Linux library bindings and interfaces
+## NUMA library bindings and interfaces
 - [libnuma](https://github.com/numactl/numactl) - The libnuma shared library to control NUMA policy for processes or shared memory on Linux
   - [numa-rs](https://github.com/cwpearson/numa-rs) - Rust bindings for libnuma
   - [go-numa](https://github.com/rakyll/go-numa) - Go bindings for libnuma
@@ -15,6 +15,8 @@ To add, remove or change things on the list:
   - [py-numa](https://github.com/smira/py-numa) - Python bindings for libnuma
   - [ocaml-numa](https://github.com/stevebleazard/ocaml-numa) - OCAML bindings for libnuma
 - [libNumaAPI](https://github.com/sergeyvfx/libNumaAPI) - A cross-platform API wrapper for NUMA architecture
+- [hwloc](https://github.com/open-mpi/hwloc) - A portable API to detect and exploit the topology of parallel architectures
+- [Windows NUMA API](https://docs.microsoft.com/en-us/windows/win32/procthread/numa-support) - Official Microsoft Win32 NUMA API
 
 ## NUMA-aware memory placement and scheduling
 - [numactl](https://github.com/numactl/numactl) - A program to run other programs with a specific NUMA policy
