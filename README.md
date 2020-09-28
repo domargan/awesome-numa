@@ -29,6 +29,7 @@ To add, remove or change things on the list:
 - [numanji](https://github.com/bastion-rs/numanji) - A rustlang Local-affinity first NUMA-aware allocator with optional fallback
 - [Tesson](https://github.com/kobolog/tesson) -  A tool for NUMA-aware sharding with Docker
 - [Umpire](https://github.com/LLNL/Umpire) - An application-focused API for memory management on NUMA & GPU architectures
+- [memkind](https://memkind.github.io/memkind/) - A heap manager which enables control of memory characteristics and a partitioning of the heap between kinds of memory
 
 ## Observation and profiling tools
 - [numastat](https://github.com/numactl/numactl) - A program display NUMA allocation statistics
