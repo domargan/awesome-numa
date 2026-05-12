@@ -31,6 +31,8 @@ To add, remove or change things on the list:
 - [Umpire](https://github.com/LLNL/Umpire) - An application-focused API for memory management on NUMA & GPU architectures
 - [memkind](https://memkind.github.io/memkind/) - A heap manager which enables control of memory characteristics and a partitioning of the heap between kinds of memory
 
+- [RAM Coffers](https://github.com/Scottcjn/ram-coffers) - NUMA-aware weight banking for LLM inference on IBM POWER8, routing model weights to cognitive-function-mapped NUMA nodes with prefetch hints
+
 ## Observation and profiling tools
 - [numastat](https://github.com/numactl/numactl) - A program display NUMA allocation statistics
 - [NUMACC](https://github.com/mJace/numacc) - A golang-based tool to check CPU affinity and NUMA configuration for containers and pods
